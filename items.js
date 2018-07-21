@@ -1,0 +1,10 @@
+module.exports=[
+    'one',
+    'one-one',
+    'one-way',
+    'one-side',
+    'two',
+    'two-side',
+    'three',
+    'four'
+]
